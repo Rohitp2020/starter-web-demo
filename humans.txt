@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    rohit ppunetha
+    -- <twitter>
 
 # THANKS
 
@@ -13,3 +14,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+# 
